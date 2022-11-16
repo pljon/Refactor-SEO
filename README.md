@@ -16,7 +16,7 @@ OR clone the repo using `git clone git@github.com:pljon/Refactor-SEO.git`
 
 ## Screenshot
 
-![website screenshot](\assets\images\horiseon-webpage-capture.jpg)
+![website screenshot](https://raw.githubusercontent.com/pljon/Refactor-SEO/main/assets/images/horiseon-webpage-capture.jpg)
 
 ## Credits
 
